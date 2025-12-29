@@ -1,4 +1,4 @@
-Welcome to the **Event Management System**
+Welcome to the **Event Management System**.
 The program will allow the users to:
  * add a Workshop
  * add a Seminar 
