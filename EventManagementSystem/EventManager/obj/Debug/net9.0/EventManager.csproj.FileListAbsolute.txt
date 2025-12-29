@@ -1,0 +1,28 @@
+C:\Users\Tshepo\Downloads\EventManager\bin\Debug\net9.0\EventManager.exe
+C:\Users\Tshepo\Downloads\EventManager\bin\Debug\net9.0\EventManager.deps.json
+C:\Users\Tshepo\Downloads\EventManager\bin\Debug\net9.0\EventManager.runtimeconfig.json
+C:\Users\Tshepo\Downloads\EventManager\bin\Debug\net9.0\EventManager.dll
+C:\Users\Tshepo\Downloads\EventManager\bin\Debug\net9.0\EventManager.pdb
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.AssemblyInfo.cs
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.dll
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\refint\EventManager.dll
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.pdb
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\EventManager.genruntimeconfig.cache
+C:\Users\Tshepo\Downloads\EventManager\obj\Debug\net9.0\ref\EventManager.dll
+C:\Users\Tshepo\Downloads\Question 1\EventManager\bin\Debug\net9.0\EventManager.exe
+C:\Users\Tshepo\Downloads\Question 1\EventManager\bin\Debug\net9.0\EventManager.deps.json
+C:\Users\Tshepo\Downloads\Question 1\EventManager\bin\Debug\net9.0\EventManager.runtimeconfig.json
+C:\Users\Tshepo\Downloads\Question 1\EventManager\bin\Debug\net9.0\EventManager.dll
+C:\Users\Tshepo\Downloads\Question 1\EventManager\bin\Debug\net9.0\EventManager.pdb
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.AssemblyInfoInputs.cache
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.AssemblyInfo.cs
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.dll
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\refint\EventManager.dll
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.pdb
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\EventManager.genruntimeconfig.cache
+C:\Users\Tshepo\Downloads\Question 1\EventManager\obj\Debug\net9.0\ref\EventManager.dll
